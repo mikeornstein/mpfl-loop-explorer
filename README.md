@@ -17,3 +17,5 @@ Or open `index.html` directly in a browser. No build step.
 ## GitHub Pages
 
 **https://mikeornstein.github.io/mpfl-loop-explorer/**
+
+If that 404s, enable Pages: Settings → Pages → Source **GitHub Actions**, or Deploy from branch `main` / root.
